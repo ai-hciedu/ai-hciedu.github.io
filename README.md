@@ -1,5 +1,4 @@
-| <img src="AIinHCI_ChatGPT4o.png" alt="AI created image presenting a scenario with human-AI and human-human collaboration" width="400" height="400"> |                       
-           <a href="https://ai-hciedu.github.io/es/">Español</a> |
+| <img src="AIinHCI_ChatGPT4o.png" alt="AI created image presenting a scenario with human-AI and human-human collaboration" width="400" height="400"> |                   <a href="https://ai-hciedu.github.io/es/">Español</a> |
 
 # Workshop: Responsible AI in HCI Education
 
